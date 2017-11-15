@@ -8,3 +8,6 @@ Gyroscope and GPS for Watchdog Portable
    2. MPU6050 Accelerometer and Gyroscope 3 Axis
    3. uBlox Neo-6m v2 GPS Module
    4. Firebase from Google
+
+The video of our older project, but this should give you the representative of this project
+https://www.youtube.com/watch?v=e1WXkEAQ50k

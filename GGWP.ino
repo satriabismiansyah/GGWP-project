@@ -18,8 +18,8 @@
 
 
 // Firebase Setup. You can get this on your firebase when you create one.
-#define FIREBASE_HOST "ggwp-1510238797379.firebaseio.com"
-#define FIREBASE_AUTH "wnctpYUVKkiRBP1MTBOp663HFGCWuRxmiONT7JZv"
+#define FIREBASE_HOST "xxxx-1234567898765.firebaseio.com"
+#define FIREBASE_AUTH "xXXXxxXXXXXXXXxxxxxxXXXXxxxXXxxxxv"
 
 // Setup GPS
 SoftwareSerial serial_connection(D3, D2); //RX=D3, TX=D2 (If you use arduino instead, remove the D on the pin number)
